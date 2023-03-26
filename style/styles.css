@@ -1,0 +1,21 @@
+#warp_page{
+    width: 1080px;
+    margin: 0 auto;
+}
+#menu ul li{
+display: inline;
+margin-left: 50px;
+padding-left: 10px;
+}
+.pr{
+    font-family: Brush Script MT;
+}
+.p1{
+    font-family:Times New Roman ;
+}
+.p2{
+    font-family:Times New Roman ;
+}
+.p3{
+    font-family:Times New Roman ;
+}
